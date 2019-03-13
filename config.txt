@@ -3,6 +3,7 @@ prefix=Y
 game= Yousef
 stayinchannel=true
 songinstatus=false
-token=NTUyODc3NDI5OTYyNzAyODU5.D2F6xQ.XSi3HzQvxbShHWECH7NrhuHqWAI
+token=NTU1NDUwODk5MzQ3Mjc1ODA2.D2rZ8g.qR7mIxCELWcaPJoM-C6G3R-8zIw
+
 
 
