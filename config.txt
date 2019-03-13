@@ -1,6 +1,6 @@
 owner=449339893626306563
-prefix=Y
-game= Yousef
+prefix=3
+game=3play || Calin Server
 stayinchannel=true
 songinstatus=false
 token=NTU1NDUwODk5MzQ3Mjc1ODA2.D2rZ8g.qR7mIxCELWcaPJoM-C6G3R-8zIw
